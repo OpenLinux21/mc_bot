@@ -1,0 +1,4 @@
+server_address = 2b2t.xin
+server_version = 1.21.1
+username = 周家霉什么傻逼
+init_command = ""
